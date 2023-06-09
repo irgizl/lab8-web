@@ -24,7 +24,7 @@ Output CRUD pada Praktikum 8 - Codeigniter seperti berikut ini:
 
 3. Detail 
 
-![detail](images/artikel-2.png)
+![detail](images/detail.png)
 
 ### Menu Admin
 
